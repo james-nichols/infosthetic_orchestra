@@ -141,7 +141,7 @@ def main():
     line1, = plt.plot([],[],'r-')
     line2, = plt.plot([],[],'g-')
 
-    plt.show()
+    #plt.show()
 
     while args['loop']:
         #for x in stream_1:
