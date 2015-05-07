@@ -18,7 +18,7 @@ from matplotlib import animation
 import pdb
 import datetime
 
-import pyaudio
+#import pyaudio
 import rtmidi
 
 
